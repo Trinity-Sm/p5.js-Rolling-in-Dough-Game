@@ -2,6 +2,9 @@
 
 Rolling in Dough is a cozy pixel-style baking game built with p5.js where players manage a small bakery, complete dessert recipes, bake treats, and serve customers before time runs out.
 
+🎮 **Play the game here:**  
+https://trinity-sm.github.io/p5.js-Rolling-in-Dough-Game/
+
 ## 🎮 About the Game
 
 Players begin at the bakery counter and click the customer to receive a random recipe order. Each recipe includes specific ingredients and steps that must be completed in the correct order. Drag ingredients into the mixing bowl, bake the dessert in the oven, and deliver the finished treat back to the customer.
