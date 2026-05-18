@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Bread",
+    "ingredients": ["flour", "water", "yeast"],
+    "optimalTime": 15,
+    "price": 5,
+    "steps": [
+      { "type": "add", "item": "flour" },
+      { "type": "add", "item": "water" },
+      { "type": "add", "item": "yeast" },
+      { "type": "Bake in Oven", "item": "" }
+    ]
+  },
+  {
+    "name": "Cake",
+    "ingredients": ["flour", "milk", "egg", "vanilla"],
+    "optimalTime": 20,
+    "price": 12,
+    "steps": [
+      { "type": "add", "item": "flour" },
+      { "type": "add", "item": "milk" },
+      { "type": "add", "item": "egg" },
+      { "type": "add", "item": "vanilla" },
+      { "type": "Bake in Oven", "item": "" }
+    ]
+  },
+  {
+    "name": "Cookies",
+    "ingredients": ["flour", "butter", "sugar", "egg"],
+    "optimalTime": 18,
+    "price": 8,
+    "steps": [
+      { "type": "add", "item": "flour" },
+      { "type": "add", "item": "butter" },
+      { "type": "add", "item": "sugar" },
+      { "type": "add", "item": "egg" },
+      { "type": "Bake until golden", "item": "" }
+    ]
+  },
+  {
+    "name": "Cupcakes",
+    "ingredients": ["flour", "milk", "egg", "sugar"],
+    "optimalTime": 22,
+    "price": 10,
+    "steps": [
+      { "type": "add", "item": "flour" },
+      { "type": "add", "item": "milk" },
+      { "type": "add", "item": "egg" },
+      { "type": "add", "item": "sugar" },
+      { "type": "Bake in Oven", "item": "" }
+    ]
+  },
+  {
+    "name": "Donuts",
+    "ingredients": ["flour", "milk", "sugar", "yeast"],
+    "optimalTime": 25,
+    "price": 9,
+    "steps": [
+      { "type": "add", "item": "flour" },
+      { "type": "add", "item": "milk" },
+      { "type": "add", "item": "sugar" },
+      { "type": "add", "item": "yeast" },
+      { "type": "Bake then glaze", "item": "" }
+    ]
+  }
+]
